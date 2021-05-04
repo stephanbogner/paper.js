@@ -1,5 +1,9 @@
 # Paper.js - The Swiss Army Knife of Vector Graphics Scripting [![Build Status](https://travis-ci.org/paperjs/paper.js.svg?branch=develop)](https://travis-ci.org/paperjs/paper.js) [![NPM](https://img.shields.io/npm/v/paper.svg)](https://www.npmjs.com/package/paper)
 
+<hr>
+**Note:** This fork made adjustments to `src/style/Color.js` to support color names without relying on canvas (see [issue 1901](https://github.com/paperjs/paper.js/issues/1901))
+<hr>
+
 If you want to work with Paper.js, simply download the latest "stable" version
 from [http://paperjs.org/download/](http://paperjs.org/download/)
 
